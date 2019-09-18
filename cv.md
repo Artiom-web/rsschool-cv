@@ -1,2 +1,2 @@
-Artsiom
+Artsiom\n
 kudrichek@gmail.com
