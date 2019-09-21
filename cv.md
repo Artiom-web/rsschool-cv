@@ -32,5 +32,5 @@ Recently I became interested in web programming, and would like to start a caree
 </p>
 <hr>
 
-<p><strong>English:</strong> pre-intermediate</p>
+<p><strong>English: </strong>pre-intermediate</p>
 
