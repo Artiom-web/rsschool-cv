@@ -8,4 +8,13 @@ Worked with YaP C ++ for a year. I also learn Java in my free time. I like to re
 Recently I became interested in web programming, and would like to start a career in this area. I am diligent, easy to learn, purposeful, focused on solving problems.</p><hr>
 
 <p><strong>Skills:</strong></p>
-<p>C++(long ago), Java, HTML, CSS, Git(basics), Linux(basics), SQL(basics)</p>
+<p>
+<ul>
+  <li>C++(long ago)</li>
+  <li>Java</li>
+  <li>HTML, CSS</li>
+  <li>Git(basics)</li>
+  <li>Linux(basics)</li> 
+  <li>SQL(basics)</li>
+</ul>
+</p>
