@@ -19,6 +19,7 @@ Recently I became interested in web programming, and would like to start a caree
   <li>SQL(basics)</li>
 </ul>
 </p>
+<hr>
 
 <p><strong>Education:</strong></p>
 <p>
@@ -29,3 +30,4 @@ Recently I became interested in web programming, and would like to start a caree
     <li>SoloLearn app(mobile)</li>
   </ul>
 </p>
+<hr>
