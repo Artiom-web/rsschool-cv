@@ -31,3 +31,6 @@ Recently I became interested in web programming, and would like to start a caree
   </ul>
 </p>
 <hr>
+
+<p><strong>English:</strong> pre-intermediate</p>
+
