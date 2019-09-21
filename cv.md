@@ -19,3 +19,11 @@ Recently I became interested in web programming, and would like to start a caree
   <li>SQL(basics)</li>
 </ul>
 </p>
+
+<p><strong>Education:</strong></p>
+<p>
+  <ul>
+    <li>2004-2007: College of Business and Law</li>
+    <li><a href = "https://www.codecademy.com/profiles/kudri">Codecademy</a></li>
+  </ul>
+</p>
