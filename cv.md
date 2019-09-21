@@ -25,5 +25,7 @@ Recently I became interested in web programming, and would like to start a caree
   <ul>
     <li>2004-2007: College of Business and Law</li>
     <li><a href = "https://www.codecademy.com/profiles/kudri">Codecademy</a></li>
+    <li><a href = "https://www.codewars.com/users/Kraken02">Codewars</a></li>
+    <li>SoloLearn app(mobile)</li>
   </ul>
 </p>
