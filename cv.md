@@ -5,4 +5,7 @@
 <p><strong>Summary:</strong></p>
 <p>I like everything related to IT. In 2007 he graduated from the College of Business and Law with a degree in Software technician.
 Worked with YaP C ++ for a year. I also learn Java in my free time. I like to read articles related to various IT technologies.
-Recently I became interested in web programming, and would like to start a career in this area. I am diligent, easy to learn, purposeful, focused on solving problems.</p>
+Recently I became interested in web programming, and would like to start a career in this area. I am diligent, easy to learn, purposeful, focused on solving problems.</p><hr>
+
+<p><strong>Skills:</strong></p>
+<p>C++(long ago), Java, HTML, CSS, Git(basics), Linux(basics), SQL(basics)</p>
