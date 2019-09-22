@@ -49,23 +49,25 @@
   </p>
   </div>
     <div class = "code">
-    public class SomeClass {<br>
+      <pre>
+    public class SomeClass {
 
-    private static Logger log = Logger.getLogger(SomeClass.class.getName());<br>
+    private static Logger log = Logger.getLogger(SomeClass.class.getName());
 
-    public static void main(String... args){<br>
+    public static void main(String... args){
 
-        someMethod();<br>
-    }<br>
+        someMethod();
+    }
 
-    public static void someMethod()<br>
-    {<br>
-        log.info("Some message");<br>
-        log.log(Level.SEVERE, "Level.SEVERE");<br>
-        log.log(Level.INFO, "Level.INFO");<br>
-        log.log(Level.FINE, "Level.FINE");<br>
-    }<br>
-}<br>
+    public static void someMethod()
+    {
+        log.info("Some message");
+        log.log(Level.SEVERE, "Level.SEVERE");
+        log.log(Level.INFO, "Level.INFO");
+        log.log(Level.FINE, "Level.FINE");
+    }
+}
+</pre>
 </div>
   <hr>
 <div class="content">
