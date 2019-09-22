@@ -1,3 +1,4 @@
+<div class = "editing">
 <p><strong>Artsiom Belasudtsau</strong></p><hr>
 <img src = "/assets/images/photo.png" alt = "my photo">
 <p><strong>Email:</strong> kudrichek@gmail.com</p>
@@ -58,6 +59,6 @@ Recently I became interested in web programming, and would like to start a caree
 <hr>
 
 <p><strong>English: </strong>pre-intermediate</p>
-
+</div>
 
 
