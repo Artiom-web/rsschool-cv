@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <div class = "editing">
 <p><strong>Artsiom Belasudtsau</strong></p><hr>
 <img src = "/assets/images/photo.png" alt = "my photo">
