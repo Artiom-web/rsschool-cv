@@ -22,6 +22,30 @@ Recently I became interested in web programming, and would like to start a caree
 </p>
 <hr>
 
+<p><strong>Code examples:</strong>
+  <p>
+    <pre>
+    public class SomeClass {
+
+    private static Logger log = Logger.getLogger(SomeClass.class.getName());
+
+    public static void main(String... args){
+
+        someMethod();
+    }
+
+    public static void someMethod()
+    {
+        log.info("Some message");
+        log.log(Level.SEVERE, "Level.SEVERE");
+        log.log(Level.INFO, "Level.INFO");
+        //Если вы специально не настроили конфигурацию лог системы, сообщения с уровнем ниже info, например fine выводиться не будут
+        log.log(Level.FINE, "Level.FINE");
+    }
+}
+</pre>
+</p>
+
 <p><strong>Education:</strong></p>
 <p>
   <ul>
@@ -34,4 +58,6 @@ Recently I became interested in web programming, and would like to start a caree
 <hr>
 
 <p><strong>English: </strong>pre-intermediate</p>
+
+
 
